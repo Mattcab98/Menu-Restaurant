@@ -1,0 +1,8 @@
+.container__menu {
+    width: 100dvw;
+    min-height: 100vh;
+    background-image: url('/images/pizzaBackground.jpg');
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
